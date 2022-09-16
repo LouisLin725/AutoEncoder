@@ -31,5 +31,16 @@ I used MNIST database as the training and testing images.
 
 ## Results
 ### Reconstruction
+Using the autoencoder to reconstruct the input MNIST images.
+![autoencoder](https://user-images.githubusercontent.com/101628791/190708963-e5ba0b98-07a8-407d-8861-370b3847a95d.png)
 
 ### Generated images
+
+
+## Hardware Equipment
+* CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz   2.81 GHz
+* RAM: 12.0 GB (4+8)
+* GPU: NVIDIA GeForce GTX 1050 / Intel(R) HD Graphics 630
+* GPU Memory: 2GB GDDR5 (128-bit)
+
+## How to run
