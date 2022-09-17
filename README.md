@@ -31,7 +31,7 @@ I used MNIST database as the training and testing images.
 ## Results
 ### Reconstruction
 Using the autoencoder to reconstruct the input MNIST images.
-![autoencoder2](https://user-images.githubusercontent.com/101628791/190869683-f36c0a46-db30-4a14-8e25-a1884a36952f.png)
+![autoencoder2](https://user-images.githubusercontent.com/101628791/190869756-08198f00-6b66-41a1-8b2d-ff443926f89d.png)
 
 ### Generated images
 ![gen_mnist](https://user-images.githubusercontent.com/101628791/190869680-1d2d0099-a4f4-4646-91d1-3d0aa0679b04.png)
