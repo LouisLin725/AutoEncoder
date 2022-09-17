@@ -34,7 +34,7 @@ Using the autoencoder to reconstruct the input MNIST images.
 ![autoencoder2](https://user-images.githubusercontent.com/101628791/190869756-08198f00-6b66-41a1-8b2d-ff443926f89d.png)
 
 ### Generated images
-![gen_mnist](https://user-images.githubusercontent.com/101628791/190869680-1d2d0099-a4f4-4646-91d1-3d0aa0679b04.png)
+![gen_mnist](https://user-images.githubusercontent.com/101628791/190869819-c96a8544-df0b-4bd7-8aca-0485ab925f4e.png)
 
 ## Hardware Equipment
 * CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz   2.81 GHz
