@@ -28,7 +28,6 @@ I used MNIST database as the training and testing images.
 - Encoder
 - Decoder
 
-
 ## Results
 ### Reconstruction
 Using the autoencoder to reconstruct the input MNIST images.
