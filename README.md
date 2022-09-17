@@ -21,7 +21,7 @@ I used MNIST database as the training and testing images.
 - Image size: 28 * 28
 
 ### MNIST example:
-![gen_mnist](https://user-images.githubusercontent.com/101628791/190869819-c96a8544-df0b-4bd7-8aca-0485ab925f4e.png)
+![mnist_images](https://user-images.githubusercontent.com/101628791/190708530-31c45b03-86df-4860-9c02-7b218051ba11.png)
 
 ## Training Models
 - AutoEncoder
