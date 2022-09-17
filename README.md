@@ -21,7 +21,7 @@ I used MNIST database as the training and testing images.
 - Image size: 28 * 28
 
 ### MNIST example:
-![mnist_images](https://user-images.githubusercontent.com/101628791/190708530-31c45b03-86df-4860-9c02-7b218051ba11.png)
+![gen_mnist](https://user-images.githubusercontent.com/101628791/190869819-c96a8544-df0b-4bd7-8aca-0485ab925f4e.png)
 
 ## Training Models
 - AutoEncoder
@@ -43,3 +43,12 @@ Using the autoencoder to reconstruct the input MNIST images.
 * GPU Memory: 2GB GDDR5 (128-bit)
 
 ## How to run
+### To reconstruct the MNIST data:
+1. Running train.py to train the autoencoder.
+2. Executing Reconstruct.py so that you can acqire the reconstruction images.
+### To generate MNIST images by decoder:
+1. Running train2.py to train the encoder and decoder respectively.
+2. Executing generate.py so that you can acqire the reconstruction images.
+
+## Reference
+Source: https://chih-sheng-huang821.medium.com/pytorch%E6%89%8B%E6%8A%8A%E6%89%8B%E5%AF%A6%E4%BD%9C-autoencoder-f5a048fcab5b
