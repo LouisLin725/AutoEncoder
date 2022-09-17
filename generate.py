@@ -4,8 +4,10 @@ import torch
 import matplotlib.pyplot as plt
 
 
-pos = np.array([[-1.5, -1.5], [1.5, 1.5], [10, 10], [-100, 100]])
-codes = torch.FloatTensor([[-1.5, -1.5], [1.5, 1.5], [0, 0], [-100, 100]])
+pos = np.array([[-1.0, 1.0], [0.0, 1.0], [0.3, 0.3], [-0.7, -0.5], 
+                [0, 0.25], [0.1, -0.1], [-0.5, -0.75], [0.35, 0.13],
+                [-0.48, -0.25], [1.0, 0.0]])
+codes = torch.FloatTensor(pos)
 
 device = torch.device('cpu')
 model_decoder = torch.load('model_MNIST_Decoder.pth',
