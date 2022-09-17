@@ -31,10 +31,10 @@ I used MNIST database as the training and testing images.
 ## Results
 ### Reconstruction
 Using the autoencoder to reconstruct the input MNIST images.
-![autoencoder](https://user-images.githubusercontent.com/101628791/190708963-e5ba0b98-07a8-407d-8861-370b3847a95d.png)
+![autoencoder2](https://user-images.githubusercontent.com/101628791/190869683-f36c0a46-db30-4a14-8e25-a1884a36952f.png)
 
 ### Generated images
-
+![gen_mnist](https://user-images.githubusercontent.com/101628791/190869680-1d2d0099-a4f4-4646-91d1-3d0aa0679b04.png)
 
 ## Hardware Equipment
 * CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz   2.81 GHz
