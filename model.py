@@ -1,8 +1,6 @@
 import torch.nn as nn
 
 # Model structure
-
-
 class Encoder(nn.Module):
     def __init__(self):
         super(Encoder, self).__init__()
